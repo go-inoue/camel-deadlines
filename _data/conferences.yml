@@ -1,28 +1,6 @@
 
 ---
 
-- title: ARR
-  year: 2022
-  id: ARRMarch2022
-  link: https://openreview.net/group?id=aclweb.org/ACL/ARR/2022
-  deadline: '2022-03-15 23:59:59'
-  timezone: UTC-12
-  date: March 15, 2022
-  place: Online
-  sub: CF
-  note: ''
-
-- title: INLG
-  year: 2022
-  id: inlg2022
-  link: https://inlgmeeting.github.io/calls.html
-  deadline: '2022-03-15 23:59:59'
-  timezone: UTC-12
-  date: July 18-22, 2022
-  place: Maine, USA
-  sub: CF
-  note: '<b>NOTE</b>: Commit to INLG deadline on May 3, 2022.'
-
 - title: SIGMORPHON
   year: 2022
   id: sigmorphon2022
