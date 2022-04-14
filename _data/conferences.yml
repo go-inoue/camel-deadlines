@@ -1,16 +1,5 @@
 
 ---
-- title: OSACT
-  year: 2022
-  id: osact2022
-  link: https://osact-lrec.github.io/
-  deadline: '2022-04-10 23:59:59'
-  timezone: UTC-12
-  date: June 20, 2022
-  place: Marseille, France
-  sub: WS
-  note: '<b>NOTE</b>: Notification on May 1, 2022.'
-
 - title: SIGMORPHON
   year: 2022
   id: sigmorphon2022
