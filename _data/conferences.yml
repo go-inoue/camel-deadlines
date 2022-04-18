@@ -1,16 +1,5 @@
 
 ---
-- title: SIGMORPHON
-  year: 2022
-  id: sigmorphon2022
-  link: https://sigmorphon.github.io/workshops/2022/
-  deadline: '2022-04-14 23:59:59'
-  timezone: UTC-12
-  date: July 14-15, 2022
-  place: Seattle, USA
-  sub: WS
-  note: '<b>NOTE</b>: Notification on May 6, 2022.'
-
 - title: COLING
   year: 2022
   id: coling2022
