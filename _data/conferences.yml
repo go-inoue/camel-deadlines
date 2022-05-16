@@ -1,16 +1,5 @@
 
 ---
-- title: LREC Presentation
-  year: 2022
-  id: lrec2022
-  link: https://lrec2022.lrec-conf.org/en/
-  deadline: '2022-05-10 23:59:59'
-  timezone: UTC+2
-  date: June 21-25, 2022
-  place: Marseille, France
-  sub: CF
-  note: '<b>NOTE</b>: Posters and video recordings should also be uploaded.'
-
 - title: COLING
   year: 2022
   id: coling2022
@@ -43,3 +32,14 @@
   place: Taipei City, Taiwan
   sub: CF
   note: '<b>NOTE</b>: Notification on September 20, 2022.'
+
+- title: WANLP
+  year: 2022
+  id: wanlp2022
+  link: https://sites.google.com/view/wanlp2022/
+  deadline: '2022-09-05 23:59:59'
+  timezone: UTC-12
+  date: Dec 7 or 8, 2022
+  place: Abu Dhabi, United Arab Emirates
+  sub: WS
+  note: '<b>NOTE</b>: Notification on October 10, 2022.'
