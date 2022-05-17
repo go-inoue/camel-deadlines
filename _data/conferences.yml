@@ -33,6 +33,17 @@
   sub: CF
   note: '<b>NOTE</b>: Notification on September 20, 2022.'
 
+- title: EMNLP DEMO
+  year: 2022
+  id: emnlp_demo2022
+  link: https://2022.emnlp.org
+  deadline: '2022-08-01 23:59:59'
+  timezone: UTC-12
+  date: Dec 7-11, 2022
+  place: Abu Dhabi, United Arab Emirates
+  sub: CF
+  note: '<b>NOTE</b>: Notification on September 18, 2022.'
+
 - title: WANLP
   year: 2022
   id: wanlp2022
