@@ -12,17 +12,6 @@
   sub: CF
   note: '<b>NOTE</b>: Abstract Submission on June 14, 2022. Notification on October 21, 2022.'
 
-- title: EMNLP
-  year: 2022
-  id: emnlp2022
-  link: https://2022.emnlp.org
-  deadline: '2022-06-24 23:59:59'
-  timezone: UTC-12
-  date: Dec 7-11, 2022
-  place: Abu Dhabi, United Arab Emirates
-  sub: CF
-  note: '<b>NOTE</b>: Abstract Submission on June 14, 2022. Notification on October 21, 2022.'
-
 - title: AACL
   year: 2022
   id: aacl2022
