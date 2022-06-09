@@ -1,15 +1,5 @@
 
 ---
-- title: COLING
-  year: 2022
-  id: coling2022
-  link: https://coling2022.org/
-  deadline: '2022-05-17 23:59:59'
-  timezone: UTC-12
-  date: October 12-17, 2022
-  place: Gyeongju, Republic of Korea
-  sub: CF
-  note: '<b>NOTE</b>: Notification on August 15, 2022.'
 
 - title: EMNLP
   year: 2022
@@ -22,6 +12,16 @@
   sub: CF
   note: '<b>NOTE</b>: Abstract Submission on June 14, 2022. Notification on October 21, 2022.'
 
+- title: EMNLP
+  year: 2022
+  id: emnlp2022
+  link: https://2022.emnlp.org
+  deadline: '2022-06-24 23:59:59'
+  timezone: UTC-12
+  date: Dec 7-11, 2022
+  place: Abu Dhabi, United Arab Emirates
+  sub: CF
+  note: '<b>NOTE</b>: Abstract Submission on June 14, 2022. Notification on October 21, 2022.'
 - title: AACL
   year: 2022
   id: aacl2022
