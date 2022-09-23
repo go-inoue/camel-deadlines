@@ -1,5 +1,15 @@
 
 ---
+- title: EACL
+  year: 2023
+  id: eacl2023
+  link: https://2023.eacl.org/
+  deadline: '2022-10-20 23:59:59'
+  timezone: UTC-12
+  date: 2-6 of May 2023
+  place: Dubrovnik, Croatia
+  sub: CF
+  note: '<b>NOTE</b>: Notification on Jan 20, 2023.'
 
 - title: WANLP
   year: 2022
