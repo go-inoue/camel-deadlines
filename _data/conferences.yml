@@ -10,3 +10,25 @@
   place: Singapore, Singapore
   sub: CF
   note: '<b>NOTE</b>: Abstract deadline: June 16; Author response: Aug 22-28; Notification on Oct 6.'
+
+- title: WANLP
+  year: 2023
+  id: wanlp2023
+  link: https://wanlp2023.sigarab.org/
+  deadline: '2023-9-5 23:59:59'
+  timezone: UTC-12
+  date: 7 of Dec 2023
+  place: Singapore, Singapore
+  sub: WS
+  note: '<b>NOTE</b>: Notification on Oct 12.'
+
+- title: LREC-COLING
+  year: 2024
+  id: lc2024
+  link: https://lrec-coling-2024.lrec-conf.org/
+  deadline: '2023-10-13 23:59:59'
+  timezone: UTC-12
+  date: 20-25 of May 2024
+  place: Turin, Italy
+  sub: CF
+  note: '<b>NOTE</b>: Author response: Jan 22–29; Notification on Feb 19.'
