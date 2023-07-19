@@ -1,16 +1,5 @@
 
 ---
-- title: Industy Track, EMNLP
-  year: 2023
-  id: emnlp2023
-  link: https://2023.emnlp.org/
-  deadline: '2023-7-14 23:59:59'
-  timezone: UTC-12
-  date: 6-10 of Dec 2023
-  place: Singapore, Singapore
-  sub: CF
-  note: '<b>NOTE</b>: Notification on Sep 16.'
-
 - title: WANLP
   year: 2023
   id: wanlp2023
@@ -32,3 +21,14 @@
   place: Turin, Italy
   sub: CF
   note: '<b>NOTE</b>: Author response: Jan 22–29; Notification on Feb 19.'
+
+- title: EACL
+  year: 2024
+  id: eacl2024
+  link: https://groups.google.com/g/ml-news/c/nbztVy2Kd1Q
+  deadline: '2023-10-15 23:59:59'
+  timezone: UTC-12
+  date: 17-22 of March 2024
+  place: Malta, Malta
+  sub: CF
+  note: '<b>NOTE</b>: Author response: Dec 8–12; Notification on Jan 15.'
