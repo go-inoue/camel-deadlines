@@ -1,21 +1,11 @@
 
 ---
-- title: WANLP
-  year: 2023
-  id: wanlp2023
-  link: https://wanlp2023.sigarab.org/
-  deadline: '2023-9-5 23:59:59'
-  timezone: UTC-12
-  date: 7 of Dec 2023
-  place: Singapore, Singapore
-  sub: WS
-  note: '<b>NOTE</b>: Notification on Oct 12.'
 
 - title: LREC-COLING
   year: 2024
   id: lc2024
   link: https://lrec-coling-2024.lrec-conf.org/
-  deadline: '2023-10-13 23:59:59'
+  deadline: '2023-10-20 23:59:59'
   timezone: UTC-12
   date: 20-25 of May 2024
   place: Turin, Italy
@@ -32,3 +22,14 @@
   place: Malta, Malta
   sub: CF
   note: '<b>NOTE</b>: Author response: Dec 8–12; Notification on Jan 15.'
+
+- title: NAACL
+  year: 2024
+  id: naacl2024
+  link: https://2024.naacl.org/
+  deadline: '2023-12-15 23:59:59'
+  timezone: UTC-12
+  date: 16-21 of June 2024
+  place: Mexico City, Mexico
+  sub: CF
+  note: '<b>NOTE</b>: Notification on March 15.'
