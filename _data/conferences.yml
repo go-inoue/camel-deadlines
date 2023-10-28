@@ -1,17 +1,6 @@
 
 ---
 
-- title: LREC-COLING
-  year: 2024
-  id: lc2024
-  link: https://lrec-coling-2024.lrec-conf.org/
-  deadline: '2023-10-20 23:59:59'
-  timezone: UTC-12
-  date: 20-25 of May 2024
-  place: Turin, Italy
-  sub: CF
-  note: '<b>NOTE</b>: Author response: Jan 22–29; Notification on Feb 19.'
-
 - title: NAACL
   year: 2024
   id: naacl2024
@@ -22,3 +11,14 @@
   place: Mexico City, Mexico
   sub: CF
   note: '<b>NOTE</b>: Notification on March 15.'
+
+- title: ACL
+  year: 2024
+  id: acl2024
+  link: https://2024.aclweb.org/
+  deadline: '2024-2-15 23:59:59'
+  timezone: UTC-12
+  date: 12-17 of August 2024
+  place: Bangkok, Thailand
+  sub: CF
+  note: '<b>NOTE</b>: Notification on May 15.'
