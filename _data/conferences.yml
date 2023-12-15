@@ -22,3 +22,14 @@
   place: Bangkok, Thailand
   sub: CF
   note: '<b>NOTE</b>: Notification on May 15.'
+
+- title: INTERSPEECH
+  year: 2024
+  id: interspeech2024
+  link: https://interspeech2024.org/
+  deadline: '2024-3-2 23:59:59'
+  timezone: UTC-12
+  date: 1-5 of September 2024
+  place: Greece
+  sub: CF
+  note: '<b>NOTE</b>: Notification on June 6.'
