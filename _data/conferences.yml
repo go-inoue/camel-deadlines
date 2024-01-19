@@ -1,17 +1,6 @@
 
 ---
 
-- title: NAACL
-  year: 2024
-  id: naacl2024
-  link: https://2024.naacl.org/
-  deadline: '2023-12-15 23:59:59'
-  timezone: UTC-12
-  date: 16-21 of June 2024
-  place: Mexico City, Mexico
-  sub: CF
-  note: '<b>NOTE</b>: Notification on March 15.'
-
 - title: ACL
   year: 2024
   id: acl2024
@@ -23,7 +12,7 @@
   sub: CF
   note: '<b>NOTE</b>: Notification on May 15.'
 
-- title: INTERSPEECH
+- title: Interspeech
   year: 2024
   id: interspeech2024
   link: https://interspeech2024.org/
@@ -32,4 +21,15 @@
   date: 1-5 of September 2024
   place: Greece
   sub: CF
-  note: '<b>NOTE</b>: Notification on June 6.'
+  note: '<b>NOTE</b>: Paper update deadline: 9 March, 2024.'
+
+- title: ArabicNLP
+  year: 2024
+  id: arabicnlp2024
+  link: https://arabicnlp2024.sigarab.org/
+  deadline: '2023-5-10 23:59:59'
+  timezone: UTC-12
+  date: 16 of August 2024
+  place: Bangkok, Thailand
+  sub: CF
+  note: '<b>NOTE</b>: Abstract submission by May 3; Notification on June 17.'
