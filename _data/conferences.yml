@@ -1,28 +1,6 @@
 
 ---
 
-- title: ACL
-  year: 2024
-  id: acl2024
-  link: https://2024.aclweb.org/
-  deadline: '2024-2-15 23:59:59'
-  timezone: UTC-12
-  date: 12-17 of August 2024
-  place: Bangkok, Thailand
-  sub: CF
-  note: '<b>NOTE</b>: Notification on May 15.'
-
-- title: Interspeech
-  year: 2024
-  id: interspeech2024
-  link: https://interspeech2024.org/
-  deadline: '2024-3-2 23:59:59'
-  timezone: UTC-12
-  date: 1-5 of September 2024
-  place: Greece
-  sub: CF
-  note: '<b>NOTE</b>: Paper update deadline: 9 March, 2024.'
-
 - title: ArabicNLP
   year: 2024
   id: arabicnlp2024
