@@ -12,7 +12,6 @@
   sub: CF
   note: '<b>NOTE</b>: Abstract submission by June 29; Notification on August 31.'
 
-
 - title: IJCNLP/AACL
   year: 2025
   id: aacl2025
@@ -24,7 +23,7 @@
   sub: CF
   note: '<b>NOTE</b>: Commitment by October 10; Notification on October 25; Camera-ready by November 10.'
 
-- title: ARR October Cycle
+- title: ARR October
   year: 2025
   id: arr2025oct
   link: https://aclrollingreview.org/dates
@@ -35,7 +34,7 @@
   sub: CF
   note: '<b>NOTE</b>: Cycle end by December 14.'
 
-- title: ARR January Cycle
+- title: ARR January
   year: 2026
   id: arr2026jan
   link: https://aclrollingreview.org/dates
