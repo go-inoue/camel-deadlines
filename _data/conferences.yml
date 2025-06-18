@@ -23,3 +23,25 @@
   place: Mumbai, India
   sub: CF
   note: '<b>NOTE</b>: Commitment by October 10; Notification on October 25; Camera-ready by November 10.'
+
+- title: ARR October Cycle
+  year: 2025
+  id: arr2025oct
+  link: https://aclrollingreview.org/dates
+  deadline: '2025-10-6 23:59:59'
+  timezone: UTC-12
+  date: TBA, 2025
+  place: TBA
+  sub: CF
+  note: '<b>NOTE</b>: Cycle end by December 14.'
+
+- title: ARR January Cycle
+  year: 2026
+  id: arr2026jan
+  link: https://aclrollingreview.org/dates
+  deadline: '2026-1-5 23:59:59'
+  timezone: UTC-12
+  date: TBA, 2026
+  place: TBA
+  sub: CF
+  note: '<b>NOTE</b>: Cycle end by March 15.'
