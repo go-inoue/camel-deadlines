@@ -7,7 +7,19 @@
   link: https://arabicnlp2025.sigarab.org/
   deadline: '2025-7-6 23:59:59'
   timezone: UTC-12
-  date: November 2025
+  date: November, 2025
   place: Suzhou, China
   sub: CF
   note: '<b>NOTE</b>: Abstract submission by June 29; Notification on August 31.'
+
+
+- title: IJCNLP/AACL
+  year: 2025
+  id: aacl2025
+  link: https://www.afnlp.org/conferences/ijcnlp2025/
+  deadline: '2025-7-28 23:59:59'
+  timezone: UTC-12
+  date: December 20-24, 2025
+  place: Mumbai, India
+  sub: CF
+  note: '<b>NOTE</b>: Commitment by October 10; Notification on October 25; Camera-ready by November 10.'
