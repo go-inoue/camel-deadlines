@@ -34,6 +34,17 @@
   sub: CF
   note: '<b>NOTE</b>: Cycle end by December 14.'
 
+- title: LREC
+  year: 2026
+  id: lrec2026
+  link: https://lrec2026.info/
+  deadline: '2025-10-17 23:59:59'
+  timezone: UTC-12
+  date: May 11-16, 2026
+  place: TBA
+  sub: CF
+  note: '<b>NOTE</b>: Notification on February 13; Camera-ready by March 6.'
+
 - title: ARR January
   year: 2026
   id: arr2026jan
