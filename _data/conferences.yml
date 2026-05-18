@@ -1,7 +1,7 @@
 
 ---
 
-- title: ARR May (EMNLP)
+- title: EMNLP
   year: 2026
   id: arr2026may
   link: https://2026.emnlp.org/
@@ -23,8 +23,8 @@
   sub: CF
   note: '<b>NOTE</b>: Abstract Submission (June 18); Author Response (July 24 - July 31)'
 
-- title: ARR August (EACL)
-  year: 2026
+- title: EACL
+  year: 2027
   id: arr2026august
   link: https://2027.eacl.org/
   deadline: '2026-8-3 23:59:59'
@@ -34,8 +34,8 @@
   sub: CF
   note: '<b>NOTE</b>: TBA'
 
-- title: ARR October (NAACL)
-  year: 2026
+- title: NAACL
+  year: 2027
   id: arr2026october
   link: https://aclrollingreview.org/dates
   deadline: '2026-10-12 23:59:59'
