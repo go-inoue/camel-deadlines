@@ -1,35 +1,35 @@
 
 ---
 
-- title: ARR October
-  year: 2025
-  id: arr2025oct
-  link: https://aclrollingreview.org/dates
-  deadline: '2025-10-6 23:59:59'
-  timezone: UTC-12
-  date: TBA, 2025
-  place: TBA
-  sub: CF
-  note: '<b>NOTE</b>: Cycle end by December 14.'
-
-- title: LREC
+- title: ARR May (EMNLP)
   year: 2026
-  id: lrec2026
-  link: https://lrec2026.info/
-  deadline: '2025-10-17 23:59:59'
+  id: arr2026may
+  link: https://2026.emnlp.org/
+  deadline: '2026-5-25 23:59:59'
   timezone: UTC-12
-  date: May 11-16, 2026
-  place: TBA
+  date: October 24-29, 2026
+  place: Budapest, Hungary
   sub: CF
-  note: '<b>NOTE</b>: Notification on February 13; Camera-ready by March 6.'
+  note: '<b>NOTE</b>: Author Response (July 7 - July 13); Notifaction (July 30)'
 
-- title: ARR January
+- title: ARR August (EACL)
   year: 2026
-  id: arr2026jan
-  link: https://aclrollingreview.org/dates
-  deadline: '2026-1-5 23:59:59'
+  id: arr2026august
+  link: https://2027.eacl.org/
+  deadline: '2026-8-3 23:59:59'
   timezone: UTC-12
-  date: TBA, 2026
+  date: March 9-14, 2027
+  place: Athens, Greece
+  sub: CF
+  note: '<b>NOTE</b>: TBA'
+
+- title: ARR October (NAACL)
+  year: 2026
+  id: arr2026october
+  link: https://aclrollingreview.org/dates
+  deadline: '2026-10-12 23:59:59'
+  timezone: UTC-12
+  date: TBA, 2027
   place: TBA
   sub: CF
-  note: '<b>NOTE</b>: Cycle end by March 15.'
+  note: '<b>NOTE</b>: TBA'
