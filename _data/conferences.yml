@@ -1,17 +1,6 @@
 
 ---
 
-- title: EMNLP
-  year: 2026
-  id: arr2026may
-  link: https://2026.emnlp.org/
-  deadline: '2026-5-25 23:59:59'
-  timezone: UTC-12
-  date: October 24-29, 2026
-  place: Budapest, Hungary
-  sub: CF
-  note: '<b>NOTE</b>: Author Response (July 7 - July 13); Notifaction (July 30)'
-
 - title: ArabicNLP
   year: 2026
   id: arabicnlp2026
@@ -42,5 +31,16 @@
   timezone: UTC-12
   date: TBA, 2027
   place: TBA
+  sub: CF
+  note: '<b>NOTE</b>: TBA'
+
+- title: COLING
+  year: 2027
+  id: coling2027
+  link: https://aclrollingreview.org/dates
+  deadline: '2026-10-12 23:59:59'
+  timezone: UTC-12
+  date: May 9-14, 2027
+  place: Macau, China
   sub: CF
   note: '<b>NOTE</b>: TBA'
