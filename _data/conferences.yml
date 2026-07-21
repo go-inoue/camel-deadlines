@@ -1,17 +1,6 @@
 
 ---
 
-- title: ArabicNLP
-  year: 2026
-  id: arabicnlp2026
-  link: https://arabicnlp2026.sigarab.org/
-  deadline: '2026-6-25 23:59:59'
-  timezone: UTC-12
-  date: October 24-29, 2026
-  place: Budapest, Hungary
-  sub: CF
-  note: '<b>NOTE</b>: Abstract Submission (June 18); Author Response (July 24 - July 31)'
-
 - title: EACL
   year: 2027
   id: arr2026august
